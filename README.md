@@ -207,7 +207,7 @@ MIT License - Free for personal and commercial use
 ---
 
 ## Output
-![ATS RESUME ANALYZER](https://ibb.co/VR2FSQ5)
+![ATS RESUME ANALYZER](https://drive.usercontent.google.com/download?id=1NkuuQcA2rq9qoRLF-0G37Y2lgFfLccAe)
 
 
  
